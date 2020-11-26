@@ -1,0 +1,47 @@
+body{
+    background-color: ;
+    line-height: 3em;
+    
+}
+h1{
+    text-align: left;
+    background-color: coral;
+    font-size: xx-large;
+    
+    
+    
+
+}
+p{
+    background-color: #333;
+    color:#fff;
+    font-size: large;
+    
+}
+table{
+    width: 400px;
+    
+
+    
+    
+}
+th{
+    text-align: left;
+    width:max-content;
+}
+table,th,td{
+    border: 1px solid #000;
+}
+tr{
+    width: fit-content;
+    
+}
+.juni{
+    color: crimson;
+    background-color: plum;
+}
+.box{
+    background-image: url();
+    background-attachment: fixed;
+    background-size: cover;
+}
